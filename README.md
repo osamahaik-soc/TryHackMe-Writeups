@@ -1,38 +1,37 @@
 # TryHackMe Writeups
 
-This repository documents my hands-on cybersecurity learning journey through TryHackMe labs, with a focus on Blue Team operations, SOC workflows, and practical security analysis.
+This repository documents my hands-on cybersecurity journey through TryHackMe labs, with a focus on SOC operations, threat detection, and blue team practices.
 
 ---
 
 ## Focus Areas
-- SIEM fundamentals (Splunk)
+- SIEM (Splunk)
 - Log analysis
 - Threat detection
-- Incident response basics
-- Security monitoring
+- Incident response
 
 ---
 
-## Repository Content
+## What You Will Find
 - Practical room writeups
+- Security analysis
 - Detection thinking
-- Log analysis examples
-- Security observations
+- Log investigation examples
 
 ---
 
-## Platforms & Tools
+## Tools
 - TryHackMe
 - Linux
-- Splunk (SIEM)
-- Windows event concepts
+- Splunk
+- Basic detection logic
 
 ---
 
-## Learning Approach
-I focus on understanding how attacks look from a defender perspective and how to detect them using logs and monitoring tools.
+## Methodology
+I approach each lab from a SOC analyst perspective, focusing on how attacks can be detected, analyzed, and investigated.
 
 ---
 
 ## Goal
-Develop practical SOC skills and build real-world defensive thinking.
+Build real-world SOC skills through practical analysis and detection scenarios.
