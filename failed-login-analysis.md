@@ -12,6 +12,14 @@ Failed password for invalid user test from 192.168.1.10 port 22 ssh2
 
 ---
 
+## Evidence
+
+The following logs show repeated failed login attempts from the same IP address targeting multiple usernames.
+
+This pattern indicates automated login attempts and possible brute-force behavior.
+
+---
+
 ## Initial Observation
 - Multiple authentication failures detected
 - Same source IP address
